@@ -6,14 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="lab4" />
-        <module name="lab2" />
-        <module name="lab1" />
+        <module name="Laboratorul 3 PR" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="lab4" target="1.5" />
-      <module name="ProgramareaInRetea" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
